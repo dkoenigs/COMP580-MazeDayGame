@@ -1,3 +1,3 @@
 # COMP580-MazeDayGame
 
-![Image description](.RallyCarImage.jpg)
+![Image description](COMP580-MazeDayGame/RallyCarImage.jpg)
