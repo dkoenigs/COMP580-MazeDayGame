@@ -1,8 +1,5 @@
 # RallyRacing
-Coleman Manchester\n
-Erica Wirth\n
-Daniel Koenigsperger\n
-\n
 
+Coleman Manchester | Erica Wirth | Daniel Koenigsperger
 
 ![Image description](RallyCarImage.jpg)
