@@ -9,7 +9,7 @@ The Rally Racer game requires a feedback wheel and connected pedals to operate. 
 [![Alt text](https://img.youtube.com/vi/3-K5XINgDO4/0.jpg)](https://www.youtube.com/watch?v=3-K5XINgDO4&feature=emb_title)
 
 How to run (Windows):
-* Download RallyRacingGame.exe
+* Download RallyRacing.app.zip
 * Execute
 
 
